@@ -6,3 +6,15 @@ p{
     font-size: 50px;
     font-family: fantasy;
 }
+em{
+    color: gold;
+    font-size: 100px;
+}
+strong{
+    color: midnightblue;
+}
+
+a{
+    color: indigo;
+    font-size: 120px;
+}
