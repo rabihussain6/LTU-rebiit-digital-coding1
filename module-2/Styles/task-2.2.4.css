@@ -1,0 +1,32 @@
+body{
+    background-color: darkgray;
+}
+h1{
+    font-size: 80px;
+    color: darkred;
+    background-color: darkseagreen;
+}
+p{
+    font-size: 30px;
+    color: darkviolet;
+    font-family: initial;
+}
+em{
+    font-size: 40px;
+    color: khaki;
+}
+p em{
+    font-size: 50px;
+    color: lightpink;
+}
+strong{
+    font-size: 80px;
+    color: mediumblue;
+}
+a{
+    font-size: 20px;
+    color: lawngreen;
+}
+p strong{
+    color: lightskyblue;
+}
