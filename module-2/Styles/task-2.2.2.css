@@ -1,10 +1,8 @@
-p
-{color: brown;
-
+body{
+    background-color: darkkhaki;
 }
-a{
-    color: chartreuse;
-}
-em{
-    color: darkblue;
+p{
+    color: darkred;
+    font-size: 50px;
+    font-family: fantasy;
 }
