@@ -9,8 +9,7 @@ footer{
     border: indigo solid 7px;
     margin-top: 30px;  
 }
-header main
-{
+header main     {
     padding-left: 60px;
      border: indigo20px solid;
           }
@@ -18,5 +17,5 @@ header main
          width: 90%;
          margin: 20px auto;
          border: solid 4px mediumvioletred;
-padding:5px
+         padding:5px
      }
