@@ -1,0 +1,22 @@
+header{border: rgb(255, 78, 47) solid 6px;
+    margin-top: 20px;
+}
+main{
+    border: greenyellow solid 6px;
+    margin-top: 20px;
+}
+footer{
+    border: indigo solid 7px;
+    margin-top: 30px;  
+}
+header main
+{
+    padding-left: 60px;
+     border: indigo20px solid;
+          }
+     div.container{
+         width: 90%;
+         margin: 20px auto;
+         border: solid 4px mediumvioletred;
+padding:5px
+     }
