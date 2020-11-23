@@ -52,5 +52,12 @@ h2{
     font-size:30px;
     line-height: 1.5;
     padding-bottom: 100px;
+    border-bottom: solid 2px #ffffff;
+
+}
+.further{
+    margin-top:50px;
+    max-width: 350px;
+    margin-bottom: 80px;
 
 }
