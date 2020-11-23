@@ -48,10 +48,10 @@ margin-top:1200px;}
 h2{
     max-width: 1200px;
     margin-bottom: 50px;
-    margin-top: 100px;
+    margin-top: 10px;
     font-size:30px;
     line-height: 1.5;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     border-bottom: solid 2px #ffffff;
 
 }
@@ -60,4 +60,52 @@ h2{
     max-width: 350px;
     margin-bottom: 80px;
 
+}
+footer{
+    background-color:#4c4c4c ;
+    padding: 30px;
+    max-width: 1100px;
+}
+footer a{
+    color:#1a1a1a;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    text-decoration: underline;
+}
+footer p{
+    margin-bottom: 30px;
+}
+.link{
+    margin-top: 50px;
+}
+@media(max-width: 700px;)  {
+    body {
+        margin-left: 30px;
+        margin-right: 30px;
+        font-size: 12px;
+        margin-top:30px;
+    }
+    img {
+        max-width: 100%;
+    }
+    .image2 img,
+    .image3 img,
+    .image4 img{
+        max-width: 100%;
+    }
+    .image1,
+    .image2,
+    .image3,
+    .image4,
+    .widerange{
+        margin-top:50px;
+        margin-bottom:50px;
+    }
+    footer a{
+        display: block;
+    }
+    footer{padding:30px;
+    margin:0;
+width: 85%;}
+}
 }
