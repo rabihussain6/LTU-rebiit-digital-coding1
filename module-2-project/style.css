@@ -13,3 +13,11 @@ h1{
 section p{
     max-width: 350px;
 }
+.image1{max-width: 200px;
+margin-bottom: 100px;
+margin-top: 200px;}
+.image2{
+    max-width: 1200px;
+margin-bottom: 100px;
+margin-top: 200px;
+}
