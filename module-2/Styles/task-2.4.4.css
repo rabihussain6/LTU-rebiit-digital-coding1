@@ -6,10 +6,10 @@ div{
 img{
     width: 50px;
 }
-p {
+.top {
     position: absolute;
-
-    top: -10px;
+    color: white;
+    top: 60px;
     left:20px;
 
     background-color: grey;
