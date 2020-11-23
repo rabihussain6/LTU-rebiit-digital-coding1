@@ -1,0 +1,14 @@
+
+.side-bar{
+    border: 10px solid red;
+    width: 30%;
+        float:left;
+        height: 50%;
+    
+}
+.main-bar {border: 10px solid green;
+width: 65%;
+height: 50%;
+float: right;}
+p{position: absolute;
+top:160px;}
