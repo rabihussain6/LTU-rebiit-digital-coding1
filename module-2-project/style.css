@@ -21,3 +21,10 @@ margin-top: 200px;}
 margin-bottom: 100px;
 margin-top: 200px;
 }
+.image2{
+    background-color: green
+;
+color: black;
+max-width: 630px;
+padding: 10px 20px 30px 20px;
+}
