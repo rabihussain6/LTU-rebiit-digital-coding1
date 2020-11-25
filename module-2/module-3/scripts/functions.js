@@ -12,5 +12,13 @@ function functionName( paramerers ) {
 
 */
 function greeding( name) {
-    console.log(name);
+    console.log('Hello ' + name);
 }
+greeding('luke,mark,spencer');
+greeding('Hussain');
+
+function nameandAge(  name,  age) {
+
+    console.log(  name  +  'is' +  age  +'  years old');
+}
+nameandAge( 'Hussain'+  35);
